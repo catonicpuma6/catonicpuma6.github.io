@@ -8,3 +8,4 @@ I am [Luke Kaiser](https://www.linkedin.com/in/lgk226/), a marketing and journal
 
 ## JOUR-025 Data Story Project
 My latest project is creating a data-driven story about the impact of allergy season on students at Lehigh due to the Lehigh Valley's reputation as "The Allergy Capital of the US."
+***UNDER CONSTRUCTION***
