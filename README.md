@@ -19,7 +19,7 @@ As seen in the right hand side of the infographic, I have constructed two scatte
 
 On the bottom chart, we can see the total box plus minus of each draftee. Box plus minus is a metric that compares a player's contributions to the average NBA player on a numerical scale. A BPM of 0 signifies the average NBA player, and any number above means a player is that amount better than average. Hilariously, 45 of the 50 players in this draft class who recorded minutes have a career BPM in the NEGATIVES. That means that 90% of the players who played in games performed as below-average NBA players. When compared to the 58 drafted players, 78% of the class was considered below average for their entire careers. The remaining 5 players don't fare any better. Michael Redd leads this class in career BPM at 2.2, meaning he was 2.2 points above average for his entire career. He is the only player in this class a point more valuable to a team. Both of these splits are historic numbers for this class, proving how awful it truly is. If you're producing "NBA talent" that contains 90% below-average players who are being selected, you definitely deserve the title as the worst draft class in NBA history.
 ![131986773 jpg 0-1](https://github.com/user-attachments/assets/277e4db0-7f0d-494d-b927-15d72815259b)
-Above is the photo of the worst class, the 2000 NBA Draft Class
+The 2000 NBA Draft Class
 
 ## JOUR-025 Data Story Project
 My latest project is creating a data-driven story about the impact of allergy season on students at Lehigh due to the Lehigh Valley's reputation as "The Allergy Capital of the US."
