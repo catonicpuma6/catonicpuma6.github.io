@@ -22,6 +22,7 @@ On the bottom chart, we can see the total box plus minus of each draftee. Box pl
 The 2000 NBA Draft Class
 
 ## Le-Laf Historical Timeline
+
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=145-UskHC0Lnl0Wm4Qh128Ucrjtx3WFmkgcRQ6wzpkAM&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 
