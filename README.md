@@ -22,7 +22,7 @@ On the bottom chart, we can see the total box plus minus of each draftee. Box pl
 The 2000 NBA Draft Class
 
 ## Le-Laf Historical Timeline
-
+This is a timeline about Lehigh's rivalry with Lafayette. It showcases major events that happened throughout the rivalry's history, such as the first game, longest run, overtime thrillers and the effect from the 2020 pandemic. It shows the long history between the teams and how each game is always a competitive battle. The data was gathered from various sources, such as the Brown and White Archives and the Allentown Morning Call.
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=145-UskHC0Lnl0Wm4Qh128Ucrjtx3WFmkgcRQ6wzpkAM&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 ## Pittsburgh Steelers Brief Overview/Timeline
