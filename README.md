@@ -26,6 +26,7 @@ The 2000 NBA Draft Class
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=145-UskHC0Lnl0Wm4Qh128Ucrjtx3WFmkgcRQ6wzpkAM&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 ## Pittsburgh Steelers Brief Overview/Timeline
+This is a timeline about the history of the Pittsburgh Steelers. The events on the timeline represent big moments in the team's history, such as the formation, key draft picks, and seasons that ended in a championship. This timeline truly exemplifies how the team was built from the ground up and found success after tumultuous starts and they have sustained that success ever since the team's first ring in 1974. It is truly amazing to see how since the 1969 season, the Steelers have only had three head coaches at the helm, showcasing the incredible leadership and talent the organization has been dealt. The data for these stories was gathered from [Football-Reference](https://www.pro-football-reference.com/teams/pit/index.htm) and the [Pro Football Hall of Fame](https://www.profootballhof.com/teams/pittsburgh-steelers/)!
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1RrvI0tO5iPKOUwebWT1DOeIbPjGt6wL2KLsQRyoYGKU&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 ## Three Most Populous Countries Bar Chart
