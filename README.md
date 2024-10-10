@@ -28,6 +28,12 @@ The 2000 NBA Draft Class
 ## Pittsburgh Steelers Brief Overview/Timeline
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1RrvI0tO5iPKOUwebWT1DOeIbPjGt6wL2KLsQRyoYGKU&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
+## Three Most Populous Countries Bar Chart
+![Three_Most_Populous_Countries_China_India_U S _chartbuilder](https://github.com/user-attachments/assets/3379b561-4bf6-4bba-b5c9-055a2f61c9d8)
+
+## Lehigh Fall 2024 College Undergraduate Enrollment Bar Chart
+![Lehigh_Fall_2024_Undergraduate_Enrollment_by_College_%_Undergraduate_Enrollment_chartbuilder](https://github.com/user-attachments/assets/99a6f11c-069f-4d54-ae09-d04465885ad3)
+
 ## JOUR-025 Data Story Project
 My latest project is creating a data-driven story about the impact of allergy season on students at Lehigh due to the Lehigh Valley's reputation as "The Allergy Capital of the US."
 ***UNDER CONSTRUCTION***
