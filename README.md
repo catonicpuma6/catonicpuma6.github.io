@@ -31,9 +31,15 @@ This is a timeline about the history of the Pittsburgh Steelers. The events on t
 
 ## Three Most Populous Countries Bar Chart
 ![Three_Most_Populous_Countries_China_India_U S _chartbuilder](https://github.com/user-attachments/assets/3379b561-4bf6-4bba-b5c9-055a2f61c9d8)
+This chart shows the population levels in millions of people from 1952 to 1961. It shows that throughout this time period, all three countries were fairly consistent in growth, with steadily gradual increases in population by years.
 
 ## Lehigh Fall 2024 College Undergraduate Enrollment Bar Chart
 ![Lehigh_Fall_2024_Undergraduate_Enrollment_by_College_%_Undergraduate_Enrollment_chartbuilder](https://github.com/user-attachments/assets/99a6f11c-069f-4d54-ae09-d04465885ad3)
+This bar graph shows the distribution of enrollment in Lehigh's seven collegiate programs. They include Arts & Sciences, Engineering & Applied Science, Business, Intercollegiate, Arts/Engineering and General College. The chart is organized based on highest to lowest percentages and is from Lehigh's Office of Institutional Data. This shows that Lehigh's highest enrollment of incoming first-years are studying in the colleges of Arts & Sciences, Engineering & Applied Science and Business.
+
+## NFL Rookie Receiving Yard Leaders Through Week 6
+![NFL_Rookie_Receiving_Yard_Leaders_Through_Week_6_Receiving_Yards_chartbuilder](https://github.com/user-attachments/assets/dbcd41c6-bba4-4b61-923b-83a3ddfc0f1a)
+This bar graph shows the top 10 total receiving yards leaders by rookies through Week 6 in the 2024 NFL season. This data was collected from [Statmuse](https://www.statmuse.com/nfl/ask/nfl-rookie-receiving-yards-leaders-2024), [Football-Reference](https://www.pro-football-reference.com/years/2024/receiving.htm) and the [NFL](https://www.nfl.com/stats/player-stats/category/receiving/2024/REG/all/receivingyards/DESC). This data includes all rookie positions, including tight ends and wide receivers from many different teams. The rookies include Brian Thomas Jr, Malik Nabers, Brock Bowers, Marvin Harrison Jr, Rome Odunze, Jordan Whittington, Xavier Worthy, Ladd McConkey, Keon Coleman and Xavier Legette. One interesting stat that stands out is the fact that Nabers, the star rookie receiver from the New York Giants, is second on this list despite missing a game with a concussion. 
 
 ## JOUR-025 Data Story Project
 My latest project is creating a data-driven story about the impact of allergy season on students at Lehigh due to the Lehigh Valley's reputation as "The Allergy Capital of the US."
