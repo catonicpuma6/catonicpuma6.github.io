@@ -51,6 +51,12 @@ This bar graph shows the top 10 total receiving yards leaders by rookies through
 ![Highest_Average_Fastball_MLB_Pitching_Leaders_By_Year_Starters_Relievers_chartbuilder](https://github.com/user-attachments/assets/e79f40b8-94b4-48b0-923a-e774e1d9ccf0)
 This line chart shows the fastest average fastball velocity by both starting and relief pitchers since 2017. The reason for 2017 being the starting point is because 2017 marks the earliest year baseball analytics website baseballsavant began tracking data like fastball velocity across all qualified pitchers. The data for this chart was collected from [baseballsavant](https://baseballsavant.mlb.com/leaderboard/pitch-arsenals?year=2024&min=250&type=avg_speed&hand=). As the chart shows, relievers often boast a higher average fastball velocity than starting pitchers. This is likely because relievers can afford to throw as hard as they possibly can, due to their pitch limits often being much lower than a starting pitcher. Relievers only throw about one inning, compared to a starter's 5+, so they can throw a volume of high-speed fastballs without worrying too much about wear and tear on their arm over multiple innings. It is interesting that startin pitchers actually went above relievers in 2020, but this is likely due to the shortened season, so relievers weren't appearing in as many games as previous years.
 
+## Maps
+
+## Top 20 Cycling Cities Around the World
+<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1_P4RvC17mhKd88n30jziTInVAfCHwSc&ehbc=2E312F" width="640" height="480"></iframe>
+This map shows the Top 20 cycling cities around the world. The data was collected by [Wired Magazine](https://www.wired.com/story/most-bike-friendly-cities-2019-copenhagenize-design-index/). It's interesting that most of the countries are located in Europe, showing that cycling is a primary form of transportation in the European continent.
+
 
 
 ## JOUR-025 Data Story Project
