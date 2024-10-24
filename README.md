@@ -1,10 +1,12 @@
 # catonicpuma6.github.io
-Lehigh JOUR-025 Data Journalism Repository
+## Lehigh JOUR-025 Data Journalism Repository
 
 My name is [Luke Kaiser](https://www.linkedin.com/in/lgk226/), a marketing and journalism student at Lehigh University. I am the Deputy Sports Editor for the University's newspaper: [The Brown and White](https://thebrownandwhite.com/author/lgk226/). You've probably seen me advertising for the Bay Deli at home as a walking billboard or killing it on the dancefloor for two straight years at orientation.
 
 ![TREX](https://github.com/user-attachments/assets/ba3c5d97-e081-42e4-a6c5-937970239093)
 ![Steelers](https://github.com/catonicpuma6/catonicpuma6.github.io/blob/main/DE9A59CC-998F-41A9-B180-EEFCE21A29FB.jpg?raw=true)
+
+## Infographics
 
 ## Lehigh Fall 2024 Undegraduate Locational Graphic
 ![Undergraduate Demographics](https://github.com/user-attachments/assets/5791d913-6436-4de0-803d-d134cde20eb1)
@@ -21,6 +23,8 @@ On the bottom chart, we can see the total box plus minus of each draftee. Box pl
 ![131986773 jpg 0-1](https://github.com/user-attachments/assets/277e4db0-7f0d-494d-b927-15d72815259b)
 The 2000 NBA Draft Class
 
+## Timelines
+
 ## Le-Laf Historical Timeline
 This is a timeline about Lehigh's rivalry with Lafayette. It showcases major events that happened throughout the rivalry's history, such as the first game, longest run, overtime thrillers and the effect from the 2020 pandemic. It shows the long history between the teams and how each game is always a competitive battle. The data was gathered from various sources, such as the Brown and White Archives and the Allentown Morning Call.
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=145-UskHC0Lnl0Wm4Qh128Ucrjtx3WFmkgcRQ6wzpkAM&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
@@ -28,6 +32,8 @@ This is a timeline about Lehigh's rivalry with Lafayette. It showcases major eve
 ## Pittsburgh Steelers Brief Overview/Timeline
 This is a timeline about the history of the Pittsburgh Steelers. The events on the timeline represent big moments in the team's history, such as the formation, key draft picks, and seasons that ended in a championship. This timeline truly exemplifies how the team was built from the ground up and found success after tumultuous starts and they have sustained that success ever since the team's first ring in 1974. It is truly amazing to see how since the 1969 season, the Steelers have only had three head coaches at the helm, showcasing the incredible leadership and talent the organization has been dealt. The data for these stories was gathered from [Football-Reference](https://www.pro-football-reference.com/teams/pit/index.htm) and the [Pro Football Hall of Fame](https://www.profootballhof.com/teams/pittsburgh-steelers/)!
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1RrvI0tO5iPKOUwebWT1DOeIbPjGt6wL2KLsQRyoYGKU&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
+## Bar and Line Charts
 
 ## Three Most Populous Countries Bar Chart
 ![Three_Most_Populous_Countries_China_India_U S _chartbuilder](https://github.com/user-attachments/assets/3379b561-4bf6-4bba-b5c9-055a2f61c9d8)
@@ -44,6 +50,7 @@ This bar graph shows the top 10 total receiving yards leaders by rookies through
 ## MLB Fastest Average Fastball Velocity By Year Line Chart
 ![Highest_Average_Fastball_MLB_Pitching_Leaders_By_Year_Starters_Relievers_chartbuilder](https://github.com/user-attachments/assets/e79f40b8-94b4-48b0-923a-e774e1d9ccf0)
 This line chart shows the fastest average fastball velocity by both starting and relief pitchers since 2017. The reason for 2017 being the starting point is because 2017 marks the earliest year baseball analytics website baseballsavant began tracking data like fastball velocity across all qualified pitchers. The data for this chart was collected from [baseballsavant](https://baseballsavant.mlb.com/leaderboard/pitch-arsenals?year=2024&min=250&type=avg_speed&hand=). As the chart shows, relievers often boast a higher average fastball velocity than starting pitchers. This is likely because relievers can afford to throw as hard as they possibly can, due to their pitch limits often being much lower than a starting pitcher. Relievers only throw about one inning, compared to a starter's 5+, so they can throw a volume of high-speed fastballs without worrying too much about wear and tear on their arm over multiple innings. It is interesting that startin pitchers actually went above relievers in 2020, but this is likely due to the shortened season, so relievers weren't appearing in as many games as previous years.
+
 
 
 ## JOUR-025 Data Story Project
