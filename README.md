@@ -57,7 +57,9 @@ This line chart shows the fastest average fastball velocity by both starting and
 <iframe src="https://www.google.com/maps/d/u/1/embed?mid=1_P4RvC17mhKd88n30jziTInVAfCHwSc&ehbc=2E312F" width="640" height="480"></iframe>
 This map shows the Top 20 cycling cities around the world. The data was collected by [Wired Magazine](https://www.wired.com/story/most-bike-friendly-cities-2019-copenhagenize-design-index/). It's interesting that most of the countries are located in Europe, showing that cycling is a primary form of transportation in the European continent.
 
-
+### Atlantic Coast Conference (ACC) Universities
+<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1qGP_M-y_0cNyxdAzCF79Gv56cBsXoRQ&ehbc=2E312F" width="640" height="480"></iframe>
+This map shows the members of the ACC, a collegiate athletic conference. The list of schools and their coordinates were collected on the [ACC's](https://theacc.com/) website and through Google Earth searches of each university. It's interesting that when the conference re-aligned in 2024, adding Stanford, Cal-Berkeley and SMU, the conference became more widespread across the country. It's definitely difficult for student-athletes to have to travel across the country while also balancing their academics, and I wonder how they manage to figure out the balance with classes when going on these long travel days.
 
 ## JOUR-025 Data Story Project
 My latest project is creating a data-driven story about the impact of allergy season on students at Lehigh due to the Lehigh Valley's reputation as "The Allergy Capital of the US."
