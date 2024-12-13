@@ -92,5 +92,5 @@ The second Tableau visualization is an interactive map that lists the countries 
 
 ## JOUR-025 Data Story Project
 My latest project is creating a data-driven story about the impact of allergy season on students at Lehigh due to the Lehigh Valley's reputation as "The Allergy Capital of the US."
-Our final project results can be found on this website: https://sek225.wixsite.com/
+Our final project results can be found on this [website](https://sek225.wixsite.com/)
 
